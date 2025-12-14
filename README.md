@@ -137,3 +137,4 @@ lib/
 
 
 # shop-app
+# simple_messenger_pro
