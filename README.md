@@ -136,3 +136,4 @@ lib/
 
 
 
+# shop-app
