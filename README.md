@@ -31,8 +31,6 @@ A professional real-time messenger application built with **Flutter** and **Supa
 |:---------:|:--------------:|:------------------:|
 | ![Screenshot_20251214-232105](https://github.com/user-attachments/assets/64fdcf11-48a9-4fef-81db-b5e22f4b980b) | ![Screenshot_20251214-232109](https://github.com/user-attachments/assets/c65953be-a132-4d73-989a-a1559c1e77f2) | ![Screenshot_20251214-232113](https://github.com/user-attachments/assets/38e8786c-793d-4270-8ddc-a0db3b82d9a6) |
 
-*(Замени URL_TO_YOUR_SCREENSHOT на ссылки на твои картинки)*
-
 ## 🛠 Tech Stack
 
 * **Framework**: Flutter
